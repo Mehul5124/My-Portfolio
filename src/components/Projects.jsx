@@ -9,8 +9,8 @@ const Projects = () => {
       description: 'A comprehensive healthcare management system featuring patient appointments, medical records, and real-time chat. Implemented secure authentication with JWT, utilized React Context API for global state management, and integrated MongoDB for efficient data storage. Built responsive UI with Tailwind CSS ensuring seamless mobile experience.',
       image: '/projects/medical-app.jpg',
       technologies: ['React', 'Node.js', 'MongoDB', 'Express', 'Tailwind CSS', 'JWT'],
-      liveLink: '#',
-      githubLink: '#'
+      liveLink: 'https://medi-connect-nine-sigma.vercel.app',
+      githubLink: 'https://github.com/Mehul5124/Medi-Connect'
     },
     {
       id: 2,
@@ -37,7 +37,7 @@ const Projects = () => {
       image: '/projects/portfolio.jpg',
       technologies: ['React', 'Vite', 'CSS3', 'Formspree', 'JavaScript'],
       liveLink: '#',
-      githubLink: '#'
+      githubLink: 'https://github.com/Mehul5124/My-Portfolio'
     }
   ]
 
